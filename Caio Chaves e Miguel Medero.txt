@@ -1,0 +1,15 @@
+Caio Chaves e Miguel Medero
+
+*Questões Abertas*
+1 - O repositorio local é o que criamos na nossa maquina e o Remoto é o que criamos no servidor. Exemplificando o local pode ficar em C:\... e o remoto em https://github.com/MiguelMedero/MiguelMedero.git
+2 - git commit -m "Alteração logica feita nos filtros de pesquisa: 'Data Leitura', 'UF Destino', 'Visao Cliente'"
+3 - git reset e git revert
+4 - Working Directory é o lugar de trabalho dos arquivos e a Staging Area é onde se prepara os arquivos para subir para respositorio
+5 - git clone https://github.com/smn/treinamento.git
+    git checkout -b "ajuste-login"
+6 - git pull tras e junta os arquivos do respositorio remoto para o local e o git fetch só tras os arquivos mas não junta os arquivos.
+7 - Quando existe confirmação de conexão entre a pasta/repositorio local com o repositorio remoto por meio da inicialização por meio do git init -> git remote add ou por meio da clonagem do repositorio remoto.
+
+*Questões Fechadas*
+1 - Falso. Porque para atualizar a branch staging não é necessario fazer um merge com a main.
+2 - Falso. Porque esse comando possui mais de uma forma de uso 	
